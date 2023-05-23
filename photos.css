@@ -261,15 +261,18 @@
 }
 .formicons{
   background-image: url('Assets/formicons/contact.png');
-  background-position: 180px 18px;
+  background-position: right;
   background-repeat: no-repeat;
   background-size: 28px;
-  margin-top: 5px;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-right: 2px;
+  z-index: -1;
   
 }
 .formiconsemail{
     background-image: url('Assets/formicons/email.png');
-    background-position: 180px 18px;
+    background-position: right;
     background-repeat: no-repeat;
     background-size: 28px;
     margin-top: 5px;
@@ -277,7 +280,7 @@
   }
   .formiconsphone{
     background-image: url('Assets/formicons/phonee.png');
-    background-position: 180px 18px;
+    background-position: right;
     background-repeat: no-repeat;
     background-size: 28px;
     margin-top: 5px;
@@ -285,7 +288,7 @@
   }
   .formiconsnotes{
     background-image: url('Assets/formicons/notes.png');
-    background-position: 430px 20px;
+    background-position: right;
     background-repeat: no-repeat;
     background-size: 28px;
     margin-top: 5px;

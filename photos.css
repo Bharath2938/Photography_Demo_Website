@@ -100,10 +100,15 @@
 
 
 .cardtrans:hover  {
-    transform: rotateY(360deg);
-    transition: 1.2s;
+    transform: rotateX(180deg);
+    transition: 0.3s;
   transform-style: preserve-3d;
   }
+/* .cardtrans:click{
+  transform: rotateY(360deg);
+    transition: 1.2s;
+  transform-style: preserve-3d;
+} */
 
 
 .weknow-our-product{

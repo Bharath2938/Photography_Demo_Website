@@ -22,7 +22,7 @@
 }
 
 .menubar{
-    color: white;
+    color: #54B4D3;
     font-weight: bolder;
 }
 .menubar:hover{
@@ -32,7 +32,7 @@
     background-color: transparent;
 }
 .buynow:hover{
-    background-color: white;
+    background-color: rgb(0, 219, 248);
     color:black;
 }
 .navbar-expand-lg .offcanvas .offcanvas-body {
@@ -44,7 +44,7 @@
 }
 .menulink ul li .nav-item .dropdown a{
     font-size: 20px !important;
-    color: white !important;
+    color: red !important;
 }
 .hoveringlist{
     color: white;
@@ -58,11 +58,22 @@
 .branding{
     font-size: 42px;
 }
+.button-style{
+  color: #54B4D3;
+  border: none;
+  padding: 5px;
+  font-weight: bolder;
+}
+.button-style:hover{
+  background-color: #54B4D3;
+  color: white;
+}
 .btn-close .text-reset {
         
     color: rgb(255, 255, 255) !important;
    
 }
+
 .names{
     font-size: 40px;
 }
